@@ -12,7 +12,7 @@ _Working as a fashion designer, I soon realized that this wont be the end of my 
 
 ##### What are my hobbies?
 
-- cooking
-- eating
-- traveling
-- playing video games (currently found my love for **Assassin's Creed** again)
+- 🍳 cooking
+- 🍰 eating
+- ✈️ traveling
+- 🎮 playing video games (currently found my love for **Assassin's Creed** again)
