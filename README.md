@@ -77,5 +77,5 @@ Active contributions to personal and collaborative projects including commits, p
 
 Feel free to explore my projects, connect with me on [LinkedIn](https://www.linkedin.com/in/dominik-musewitsch-0603b2188/), or reach out for collaboration. 🚀  
 
-![Nailed it](https://media.tenor.com/7886259.gif)
+<https://media.tenor.com/7886259.gif/>
 
