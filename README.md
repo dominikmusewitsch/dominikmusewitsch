@@ -30,7 +30,6 @@ A collaborative project built during the **Neue Fische Web Development Bootcamp*
 - CRUD operations for plant management  
 
 **Screenshot / Preview:**  
-![Plant Pal Screenshot]
 <img width="343" height="612" alt="Bildschirmfoto 2025-11-03 um 12 16 41" src="https://github.com/user-attachments/assets/8b55a293-f7d0-4bb7-80b5-ec9144f8d3d7" />
 
 ---
@@ -50,8 +49,8 @@ I am currently enrolled in the **[Neue Fische Full-Stack Web Development Bootcam
 
 ## 📊 GitHub Stats
 
-![Dominik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DomMuse&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DomMuse&layout=compact&theme=radical)  
+![Dominik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dominik-musewitsch&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dominik-musewitsch&layout=compact&theme=radical)
 
 ---
 
