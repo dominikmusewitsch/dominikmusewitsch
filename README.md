@@ -49,8 +49,8 @@ I am currently enrolled in the **[Neue Fische Full-Stack Web Development Bootcam
 
 ## 📊 GitHub Stats
 
-![Dominik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dominik-musewitsch&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dominik-musewitsch&layout=compact&theme=radical)
+![Dominik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dominikmusewitsch&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikmusewitsch&layout=compact&theme=radical)
 
 ---
 
