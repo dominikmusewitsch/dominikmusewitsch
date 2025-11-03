@@ -77,7 +77,9 @@ Active contributions to personal and collaborative projects including commits, p
 
 Feel free to explore my projects, connect with me on [LinkedIn](https://www.linkedin.com/in/dominik-musewitsch-0603b2188/), or reach out for collaboration. 🚀  
 
-![Nailed it](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM1MjV6YmJlenZydTY0MzhlbXl2MGh6cXpoaWg3cWltMjFzcm9tcyZ)
+<div>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25saHM0dHhhZG9xMjBidGtwNTVrejZ0aTM4ZHZiMDlocmxrYjAxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3xz2Bw12fe9iyG06v6/giphy.gif" width="280" height="auto" /></a>
+</div>
 
 
 
