@@ -43,7 +43,7 @@ I am currently enrolled in the **[Neue Fische Full-Stack Web Development Bootcam
 ## 🌐 Connect with Me
 
 - LinkedIn: [Dominik Musewitsch](https://www.linkedin.com/in/dominik-musewitsch-0603b2188/)  
-- GitHub: [DomMuse](https://github.com/DomMuse)  
+- GitHub: [Dominik Musewitsch](https://github.com/dominikmusewitsch)  
 
 ---
 
