@@ -47,9 +47,19 @@ I am currently enrolled in the **[Neue Fische Full-Stack Web Development Bootcam
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 ![Dominik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dominikmusewitsch&show_icons=true&theme=radical)
+
+**GitHub Activity (Last Year):**  
+Active contributions to personal and collaborative projects including commits, pull requests, and issues.
+
+**Most Used Languages (based on contributions):**  
+- **JavaScript (≈73%)** – primary language for projects and exercises  
+- **CSS (≈15%)** – styling and layout of web applications  
+- **HTML (≈11%)** – structure and markup  
+- **TypeScript (≈2%)** – currently learning and gradually integrating into projects  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikmusewitsch&layout=compact&theme=radical)
 
 ---
@@ -62,3 +72,10 @@ I am currently enrolled in the **[Neue Fische Full-Stack Web Development Bootcam
 🎮 Gaming (currently enjoying **No Man's Sky**)  
 
 ---
+
+## 🙏 Thanks for visiting my profile!
+
+Feel free to explore my projects, connect with me on [LinkedIn](https://www.linkedin.com/in/dominik-musewitsch-0603b2188/), or reach out for collaboration. 🚀  
+
+![Nailed it](https://media.tenor.com/7886259.gif)
+
